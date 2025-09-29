@@ -1,0 +1,79 @@
+Primary,Secondary,Tertiary,Count
+Software governance,,,1
+Software governance,Licensing,,13
+Software governance,Open-sourcing,,2
+Software governance,Release management,,6
+Software architecture and design,,,9
+Software architecture and design,Conformance and evolution,,21
+Software architecture and design,Patterns and anti-patterns,,20
+Software architecture and design,Redesign and reengineering,,6
+Software architecture and design,Features and variants,,27
+Software architecture and design,Documentation,,19
+Software architecture and design,Requirements,,3
+Software architecture and design,Configuration,,6
+Software quality,,,6
+Software quality,Code reviews,,17
+Software quality,Code metrics,,23
+Software quality,Defects,,14
+Software quality,Defects,Detection,33
+Software quality,Defects,Prediction,25
+Software quality,Defects,Localisation,11
+Software quality,Defects,Fixes,27
+Software quality,Defects,Patterns,34
+Software quality,Vulnerabilities and security,"Detection, prediction and localisation",11
+Software quality,Vulnerabilities and security,Fixes,4
+Software quality,Vulnerabilities and security,Patterns,12
+Software quality,Tests,,31
+Software quality,Performance,,15
+Software quality,Energy efficiency,,6
+Collaboration and coordination,Organisational structures,,34
+Collaboration and coordination,Communication,,27
+Collaboration and coordination,Communication,Topic modeling,22
+Collaboration and coordination,Communication,Sentiment analysis,6
+Collaboration and coordination,Human factors and values,,9
+Collaboration and coordination,Onboarding,,5
+Collaboration and coordination,Mechanisms,,5
+Collaboration and coordination,Expertise,,6
+Software maintenance,,,8
+Software maintenance,Reuse and clones,,43
+Software maintenance,Integration,,5
+Software maintenance,Development operations,,9
+Software maintenance,Development operations,CI/CD,36
+Software maintenance,Development operations,MLOps,5
+Software maintenance,Development operations,Builds,19
+Software maintenance,Dependency management,,56
+Software maintenance,Updates and upgrades,,11
+Software maintenance,Debugging and logging,,10
+Software maintenance,Refactoring,,32
+Software maintenance,Change patterns and evolution,,99
+Software maintenance,Change impact analysis,,11
+Software maintenance,Code and change prediction,,6
+Software maintenance,Code merge,,11
+Software maintenance,Bots,,6
+Software maintenance,Technical debt,,17
+Software maintenance,Technical debt,Code smells,18
+Software maintenance,Activity and productivity,,44
+Software maintenance,Effort estimation,,12
+Development support and automation,,,10
+Development support and automation,Generation,,1
+Development support and automation,Generation,Code generation,17
+Development support and automation,Generation,Release note generation,4
+Development support and automation,Generation,Commit message generation,6
+Development support and automation,Generation,Documentation generation,10
+Development support and automation,Topic and knowledge modeling,,15
+Development support and automation,Information retrieval,,13
+Development support and automation,Recommendations,,34
+Development support and automation,Ticket and task resolution,,17
+Development support and automation,Summarisation,,3
+Development support and automation,Visualisation,,8
+MSR techniques,,,0
+MSR techniques,Tool development,,148
+MSR techniques,Threats,,29
+MSR techniques,Dataset and benchmark creation,,41
+Software usage,,,3
+Software usage,Popularity,,15
+Software usage,App stores,,7
+Software usage,End-user reviews,,2
+Software usage,Improvements,,3
+Software usage,Patterns,,12
+No MSR study,,,94
