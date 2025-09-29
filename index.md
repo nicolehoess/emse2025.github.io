@@ -72,14 +72,14 @@ Study counts for the categories are summarised here: [plot_summary.csv](/literat
 
 #### Agreement of count- and network-based operationalisations
 
-The agreement plots for all subject projects and analysis ranges are available [here](/emse2025.github.io/collaboration/index.html#metrics-agreement).
+The agreement plots for all subject projects and analysis ranges are available [here]({{ site.baseurl }}/collaboration/index.html#metrics-agreement).
 
 Example:
 ![Agreement for subject project GCC](/collaboration/gcc_agreement_107-104.png)
 
 #### Hierarchy stability
 
-The agreement plots for all subject projects and analysis ranges are available [here](/emse2025.github.io/collaboration/index.html#hierarchy-stability).
+The agreement plots for all subject projects and analysis ranges are available [here]({{ site.baseurl }}/collaboration/index.html#hierarchy-stability).
 
 Example:
 
@@ -87,7 +87,7 @@ Example:
 
 #### Agreement across tools per metrics
 
-The agreement plots for all subject projects and analysis ranges are available [here](/emse2025.github.io/collaboration/index.html#tools-agreement).
+The agreement plots for all subject projects and analysis ranges are available [here]({{ site.baseurl }}/collaboration/index.html#tools-agreement).
 
 Example:
 ![Tool agreement for subject project GCC](/collaboration/gcc_tool_agreement_107-104.png)
