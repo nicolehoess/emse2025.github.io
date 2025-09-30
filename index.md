@@ -39,7 +39,7 @@ our approach.
 
 ## Study repository
 
-Visit our [git repository](https://github.com/nicolehoess/emse2025) to get a copy of 
+Visit our [git repository](https://github.com/lfd/emse2025) to get a copy of 
 the reproduction setup including the tool snapshots of 
 [Codeface](https://github.com/lfd/codeface),
 [git2net](https://github.com/gotec/git2net),
