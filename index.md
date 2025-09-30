@@ -55,18 +55,18 @@ we provide supplementary material which is not included in the publication.
 
 ### Literature review
 
-The annotated tools table can be found here: [tools.xlsx](/literature/tools.xlsx)
+The annotated tools table can be found [here]({{ site.baseurl }}/literature/index.html#tools) (raw data: [tools.xlsx](/literature/tools.xlsx))
 
 The annotated venue lists can be found here:
-- [emse.xlsx](/literature/emse.xlsx)
-- [fse.xlsx](/literature/fse.xlsx)
-- [icse.xlsx](/literature/icse.xlsx)
-- [msr.xlsx](/literature/msr.xlsx)
-- [saner.xlsx](/literature/saner.xlsx)
-- [tosem.xlsx](/literature/tosem.xlsx)
-- [tse.xlsx](/literature/tse.xlsx)
+- [EMSE]({{ site.baseurl }}/literature/index.html#emse) (full raw data: [emse.xlsx](/literature/emse.xlsx))
+- [FSE]({{ site.baseurl }}/literature/index.html#fse) (full raw data: [fse.xlsx](/literature/fse.xlsx))
+- [ICSE]({{ site.baseurl }}/literature/index.html#icse) (full raw data: [icse.xlsx](/literature/icse.xlsx))
+- [MSR]({{ site.baseurl }}/literature/index.html#msr) (full raw data: [msr.xlsx](/literature/msr.xlsx))
+- [SANER]({{ site.baseurl }}/literature/index.html#saner) (full raw data: [saner.xlsx](/literature/saner.xlsx))
+- [TOSEM]({{ site.baseurl }}/literature/index.html#tosem) (full raw data: [tosem.xlsx](/literature/tosem.xlsx))
+- [TSE]({{ site.baseurl }}/literature/index.html#tse) (full raw data: [tse.xlsx](/literature/tse.xlsx))
 
-Study counts for the categories are summarised here: [plot_summary.csv](/literature/plot_summary.csv)
+Study counts for the categories are summarised [here]({{ site.baseurl }}/literature/index.html#studies-per-category) (raw data: [plot_summary.csv](/literature/plot_summary.csv))
 
 ### Collaboration and coordination
 
